@@ -1,6 +1,3 @@
-# AMR23-FP1-UkfSlipping
-
-
 ## Installation
 
 Make sure you have followed the installation instructions in [http://wiki.ros.org/Robots/TIAGo/Tutorials](http://wiki.ros.org/Robots/TIAGo/Tutorials), either installing directly on Ubuntu 20.04 or through Docker. Install catkin_tools, create a catkin workspace and clone this repository in the `src` folder. 
