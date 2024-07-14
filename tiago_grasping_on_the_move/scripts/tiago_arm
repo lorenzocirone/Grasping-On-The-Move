@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+
+import tiago_grasping_on_the_move.TIAgoArm.tiago_ik
+# import tiago_grasping_on_the_move.TIAgoArm.trial
+# import tiago_grasping_on_the_move.TIAgoArm.arm_controller_command_topic
+# import tiago_grasping_on_the_move.TIAgoArm.qp_arm_and_base
+
+if __name__ == '__main__':
+    tiago_grasping_on_the_move.TIAgoArm.tiago_ik.main()
+    # tiago_grasping_on_the_move.TIAgoArm.trial.main()
+    # tiago_grasping_on_the_move.TIAgoArm.arm_controller_command_topic.main()
+    # tiago_grasping_on_the_move.TIAgoArm.qp_arm_and_base.main()
